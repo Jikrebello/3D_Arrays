@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\3D_Arrays\bin\Debug\3D_Arrays.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\3D_Arrays\bin\Debug\3D_Arrays.exe
+E:\Visual Studio Projects\C# Intermediate Programming\3D_Arrays\bin\Debug\3D_Arrays.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\3D_Arrays\obj\Debug\3D_Arrays.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\3D_Arrays\obj\Debug\_3D_Arrays.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\3D_Arrays\obj\Debug\_3D_Arrays.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\3D_Arrays\obj\Debug\3D_Arrays.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\3D_Arrays\obj\Debug\3D_Arrays.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\3D_Arrays\obj\Debug\3D_Arrays.exe
+E:\Visual Studio Projects\C# Intermediate Programming\3D_Arrays\obj\Debug\3D_Arrays.pdb

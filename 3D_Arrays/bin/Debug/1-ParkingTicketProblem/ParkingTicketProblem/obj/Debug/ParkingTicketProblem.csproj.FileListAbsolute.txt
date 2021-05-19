@@ -1,0 +1,7 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\bin\Debug\ParkingTicketProblem.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\bin\Debug\ParkingTicketProblem.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.FrmParkingTicket.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\3-AdvancedArrays\3-MultiDim\1-ParkingTicketProblem\ParkingTicketProblem\obj\Debug\ParkingTicketProblem.csproj.GenerateResource.Cache

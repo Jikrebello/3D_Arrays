@@ -1,0 +1,8 @@
+bin\Debug\ParkingTicketProblem.exe
+bin\Debug\ParkingTicketProblem.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ParkingTicketProblem.FrmParkingTicket.resources
+obj\Debug\ParkingTicketProblem.Properties.Resources.resources
+obj\Debug\ParkingTicketProblem.csproj.GenerateResource.Cache
+obj\Debug\ParkingTicketProblem.exe
+obj\Debug\ParkingTicketProblem.pdb
